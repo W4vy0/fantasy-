@@ -1,0 +1,6 @@
+{
+  "name": "에르디아 연대기 : 성력 987년",
+  "description": "성력 987년 신성제국 에르디아와 벨로아 왕국을 배경으로 한 로맨스 판타지 캐릭터 챗 인터랙티브 소개관",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
