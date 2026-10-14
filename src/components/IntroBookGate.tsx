@@ -47,11 +47,12 @@ export const IntroBookGate: React.FC<IntroBookGateProps> = ({ onUnlock }) => {
 
     // Mechanical lock ratchet sound "드르르륵! 철컥"
     sounds.playUnlockSound();
+    // Immediately start BGM within direct user activation
+    sounds.startBgm();
 
-    // Page flip flutter & ambient music start
+    // Page flip flutter
     setTimeout(() => {
       sounds.playPageFlipSound();
-      sounds.startBgm();
     }, 700);
 
     // Transition to main site

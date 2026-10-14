@@ -55,7 +55,7 @@ const IMPERIAL_PINS: MapPin[] = [
     colorClass: 'bg-orange-500',
     dotColor: '#f97316',
     coords: { x: 40, y: 46 },
-    imageUrl: 'https://igx.kr/v/Wlc/b/2',
+    imageUrl: 'https://igx.kr/v/Wlc/b/6',
   },
   {
     id: 'mansion-2',
@@ -63,7 +63,7 @@ const IMPERIAL_PINS: MapPin[] = [
     colorClass: 'bg-orange-500',
     dotColor: '#f97316',
     coords: { x: 54, y: 50 },
-    imageUrl: 'https://igx.kr/v/Wlc/b/2',
+    imageUrl: 'https://igx.kr/v/Wlc/b/6',
   },
   {
     id: 'mansion-3',
@@ -71,7 +71,7 @@ const IMPERIAL_PINS: MapPin[] = [
     colorClass: 'bg-orange-500',
     dotColor: '#f97316',
     coords: { x: 72, y: 51 },
-    imageUrl: 'https://igx.kr/v/Wlc/b/2',
+    imageUrl: 'https://igx.kr/v/Wlc/b/6',
   },
   {
     id: 'mansion-4',
@@ -79,7 +79,7 @@ const IMPERIAL_PINS: MapPin[] = [
     colorClass: 'bg-orange-500',
     dotColor: '#f97316',
     coords: { x: 86, y: 46 },
-    imageUrl: 'https://igx.kr/v/Wlc/b/2',
+    imageUrl: 'https://igx.kr/v/Wlc/b/6',
   },
   // 6. (노랑색 토글) 정원
   {
